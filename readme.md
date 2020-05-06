@@ -1,2 +1,2 @@
-# Coursera_Capstone
-Repository created to complete the IBM Data Analysis certification and associated course work. 
+# Segmenting-and-Clustering-Neighborhoods-in-Toronto
+Segmenting and Clustering Neighborhoods in Toronto_IBM Data Science Capstone Project_Week 3
